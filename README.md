@@ -1,0 +1,1 @@
+This is my first project working with HTML. I will be rebuilding the Google homepage from scratch for this project. I hope to learn more about the big picture thinking aspect of programming and simply getting comfortable putting it all together
